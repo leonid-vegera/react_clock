@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,cAAe,CACf,WAAY,CACZ,eAAgB,CAChB,kBAAmB,CAJrB,aAOI,UAAY,CACZ,wBAAiC","file":"main.eafbd445.chunk.css","sourcesContent":["button {\n  font-size: 14px;\n  height: 40px;\n  margin-left: 5px;\n  border-radius: 10px;\n\n  &:hover {\n    color: white;\n    background-color: rgb(77, 77, 85);\n  }\n}\n"]}
